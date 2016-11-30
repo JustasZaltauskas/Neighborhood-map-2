@@ -8,8 +8,8 @@ Open index.html to run the project.
 
 > Udacity
 
-##[Demo](https://justaszaltauskas.github.io/Neighborhood-map-2/)
-You can see a demo [here](https://justaszaltauskas.github.io/Neighborhood-map-2/).
+##[Demo](https://justaszaltauskas.github.io/Neighborhood-map-2/index.html)
+You can see a demo [here](https://justaszaltauskas.github.io/Neighborhood-map-2/index.html).
 
 <img src='http://gdurl.com/hpC5' width="480" height="240" /> <img src='http://gdurl.com/cuQL' width="480" height="240" />
 
