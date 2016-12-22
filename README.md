@@ -11,7 +11,7 @@ Open index.html to run the project.
 ##[Demo](https://justaszaltauskas.github.io/Neighborhood-map-2/index.html)
 You can see a demo [here](https://justaszaltauskas.github.io/Neighborhood-map-2/index.html).
 
-<img src='http://gdurl.com/hpC5' width="480" height="240" /> <img src='http://gdurl.com/cuQL' width="480" height="240" />
+<img src='http://gdurl.com/hpC5' width="480" height="240" /> <img src='http://gdurl.com/9DI7' width="480" height="240" />
 
 
 
